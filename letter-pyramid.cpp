@@ -5,9 +5,9 @@
  *		  like the following one:
  * 
  * If the user enters the string "ABCDEFG" the letter pyramid will be:
- *				  A                                                                                                                
- *				 ABA                                                                                                               
- *				ABCBA                                                                                                              
+ *			      A                                                                                                                
+ *			     ABA                                                                                                               
+ *			    ABCBA                                                                                                              
  *			   ABCDCBA                                                                                                             
  *			  ABCDEDCBA                                                                                                            
  *			 ABCDEFEDCBA                                                                                                           
